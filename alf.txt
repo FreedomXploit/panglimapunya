@@ -1109,7 +1109,7 @@ echo '<input type="hidden" name="charset">
 <tr>
 <td><span class="header_vars">User:</span></td>
 <td><span class="header_values" id="header_userid">'. $uid . ' [ ' . $user . ' ] </span><span class="header_vars"> Group: </span><span class="header_values" id="header_groupid">' . $gid . ' [ ' . $group . ' ]</span> </td>
-<td width="12%" rowspan="8"><img style="border-radius:100px;" width="300" height="170" alt="alfa team 2012" draggable="false" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-45.gif" /></td>
+<td width="12%" rowspan="8"><img style="border-radius:100px;" width="300" height="170" alt="alfa team 2012" draggable="false" src="https://i.pinimg.com/originals/3a/d1/7a/3ad17a786cf5cbc55c0ac7b901dd441d.gif" /></td>
 </tr>
 <tr>
 <td><span class="header_vars">PHP:</span></td>
